@@ -3,7 +3,7 @@
 ![image](https://github.com/pratyushdev-codes/NewsPulse/assets/109750976/4af44d95-66e1-4416-a55e-cf3d2e1d87b5)
 ![image](https://github.com/pratyushdev-codes/NewsPulse/assets/109750976/67768b9b-f84c-436c-80eb-b66959a46a4d)
 ![image](https://github.com/pratyushdev-codes/NewsPulse/assets/109750976/1d3edae9-7c11-443b-abf9-462a25fa99e6)
-![image](https://github.com/pratyushdev-codes/NewsPulse/assets/109750976/a45e4202-dfe5-4d60-a827-c7e1cdfab66b)
+
 
 
 
